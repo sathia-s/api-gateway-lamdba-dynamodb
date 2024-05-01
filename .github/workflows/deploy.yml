@@ -1,5 +1,4 @@
 name: "terraform-deploy"
-
 on:
   push:
     branches:
